@@ -1,0 +1,19 @@
+
+train: C:\Users\t1526\Desktop\kaggle\working\train_ODT\train.txt
+val: C:\Users\t1526\Desktop\kaggle\working\train_ODT\val.txt
+test: C:\Users\t1526\Desktop\kaggle\working\train_ODT\test.txt
+
+
+nc: 10
+
+names:
+  0: vertical_bar
+  1: horizontal_bar
+  2: dot
+  3: line
+  4: scatter
+  5: label_angle00
+  6: label_angle45
+  7: label_angle90
+  8: label_angle-45
+  9: useless
