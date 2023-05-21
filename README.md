@@ -1,4 +1,4 @@
-# ChartRecognizer
+# Chart-Recognizer
 Half-finished project of charts recognization from "Kaggle: Benetech - Making Graphs Accessible".  
 **Get more information on [Benetech - Making Graphs Accessible](https://www.kaggle.com/competitions/benetech-making-graphs-accessible/overview/description)**
 
