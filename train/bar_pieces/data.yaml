@@ -1,0 +1,10 @@
+
+train: C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\train.txt
+val: C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\val.txt
+test: C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\test.txt
+
+nc: 1
+
+names:
+  0: bar
+

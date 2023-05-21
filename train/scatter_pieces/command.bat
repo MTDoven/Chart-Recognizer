@@ -1,0 +1,1 @@
+yolo detect train model=yolov8x.yaml data=./data.yaml batch=18 warmup_epochs=2 close_mosaic=15 epochs=75 workers=4 patience=30

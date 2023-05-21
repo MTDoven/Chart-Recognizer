@@ -1,0 +1,5 @@
+C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\images\f32bac233439_0.9207572184744355.jpg
+C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\images\f32d858445d9_0.5488721804511278.jpg
+C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\images\f32d858445d9_0.6040100250626567.jpg
+C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\images\f32d858445d9_0.6491228070175439.jpg
+C:\Users\t1526\Desktop\kaggle\working\train\bar_pieces\images\f32d858445d9_0.6892230576441103.jpg
